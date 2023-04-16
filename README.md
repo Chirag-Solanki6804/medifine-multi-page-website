@@ -22,7 +22,7 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 <br>
 
-![Alt Image text](/assets/.png?raw=true "Optional Title")
+![Alt Image text](/images/output2.png?raw=true "Optional Title")
 
 
 ## 📬 Connect With Me
