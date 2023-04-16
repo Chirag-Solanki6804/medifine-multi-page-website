@@ -1,0 +1,132 @@
+/* reset css */
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+/*******************/
+/* default styling */
+/******************/
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f0f4f5;
+  /* overflow: hidden; */
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  border-bottom: 5px solid #20bc7e;
+}
+
+/******************/
+/* Navbar styling */
+/*****************/
+
+header {
+  width: 100vw;
+  height: 15vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 120px;
+  padding-right: 170px;
+}
+
+header nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/********************************/
+/* main-section for about page */
+/*******************************/
+
+main {
+  width: 100vw;
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 40px;
+}
+
+main h1 {
+  color: rgb(32, 188, 126);
+  font-size: 2em;
+  font-weight: bold;
+}
+
+main p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+main .boxs {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.styledBox {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  width: 200px;
+  height: 100px;
+  box-shadow: 0 0 10px black;
+}
+
+.totalDoctors span {
+  color: #20bc7e;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.totalDoctors {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: black;
+}
+
+.totalStudents span {
+  color: #20bc7e;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.totalStudents {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: black;
+}
+
+.totalCustomers span {
+  color: #20bc7e;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.totalCustomers {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: black;
+}
