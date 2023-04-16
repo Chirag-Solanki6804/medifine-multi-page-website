@@ -10,7 +10,6 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 ## 📌 **Live Site URL:** <a href="https://chirag-solanki6804.github.io/medifine-multi-page-website/">**Visit Now** 🚀</a>
 
 <br>
-<br>
 
 ## 📌 Tech Stack
 
