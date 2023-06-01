@@ -31,4 +31,8 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 ## 📌 Acknowledgments
 
-- Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary) 
+- Course Instructors 
+- [Hitesh Choudhary](https://github.com/hiteshchoudhary) 
+- [Sanket Singh](https://github.com/singhsanket143)
+- [Anurag Tiwari](https://github.com/anuragtiwarime)
+- [Vishwa Mohan](https://github.com/Vishwa07dev)
